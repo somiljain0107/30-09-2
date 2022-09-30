@@ -1,0 +1,44 @@
+body{
+    height: 100%;
+    width:100%;
+    background-image: url(assets/background-image1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table{
+    height:300px;
+    width:900px;
+    
+
+}
+table,tr{
+    background-color: aliceblue;
+    border:2px solid gray;
+    border-collapse:collapse;}
+    
+th{
+    background-color: red;
+    color: white;
+    
+}
+#p1{
+    text-align: right;
+    
+}
+#p1{
+    text-align: left;
+}
+
+    td{
+        font-weight: bold;
+    }
+    #f1{
+        color:gray;
+    }
+    #im1{
+        
+        text-align: right;
+    }
+    .footer{
+        margin:20px;
+    }

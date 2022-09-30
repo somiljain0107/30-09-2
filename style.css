@@ -15,7 +15,8 @@ table,tr{
     background-color: aliceblue;
     border:2px solid gray;
     border-collapse:collapse;}
-    
+    tr:hover {
+        background-color: bisque;} 
 th{
     background-color: red;
     color: white;
